@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'Twrp_Diting'
+        default: 'omni_diting'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
